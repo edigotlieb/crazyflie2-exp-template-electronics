@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name template-rescue)(type Legacy)(uri ${KIPRJMOD}/template-rescue.lib)(options "")(descr ""))
+  (lib (name "Crazyflie contol board-rescue")(type Legacy)(uri "C:/Users/edigo/OneDrive/Documents/repos/crazyflie-electronics/ecad/Crazyflie contol board-rescue.lib")(options "")(descr ""))
+)
